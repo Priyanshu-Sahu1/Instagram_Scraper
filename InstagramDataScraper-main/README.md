@@ -1,1 +1,1 @@
-# facebookDataScraper
+# InstagramDataScraper
