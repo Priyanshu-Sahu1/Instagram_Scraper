@@ -1,5 +1,6 @@
-Download pycharm and setup virtual enviroment in your pycharm inside the folder Instagram_Hastag_DataScraper using Command in terminal below. pip install virtualenv
-or can follow the below link to create virtual Environment. https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html#env-requirements
+Download pycharm and setup virtual enviroment in your pycharm inside the folder Instagram_Hastag_DataScraper using Command in terminal below. 
+pip install virtualenv or can follow the below link to create virtual Environment.
+https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html#env-requirements
 After creating virtual environment in your project.
 install scrapy package in pycharm ,
 install instaloader package using pip install instaloader ,
