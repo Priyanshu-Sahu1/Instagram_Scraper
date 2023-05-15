@@ -1,3 +1,6 @@
+Instagram Data Scraper
+
+
 Download pycharm and setup virtual enviroment in your pycharm inside the folder Instagram_Hastag_DataScraper using Command in terminal below. 
 
 pip install virtualenv or can follow the below link to create virtual Environment
